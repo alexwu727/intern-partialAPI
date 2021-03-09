@@ -3,6 +3,7 @@ Just record what I have done while I was a intern.
 
 ## API develop  
 Using Vert.x to develop API service.  
+Note: This code will not work if only use code here. It is because I only upload the logic I wrote, not the entire enviornment.
 ## framework
 There're verticles to construct this framework.  
 
